@@ -1,6 +1,33 @@
-- 👋 Hi, I’m @jneuenschwander
-- 👀 I’m interested in javascript proyects and flutter apps
-- 🌱 I’m currently learning advance flutter 
+<h1 align="center" > 👋 Hi, I’m Juan Neuenschwander </h1>
+<h3 align="center">A Systems and Computer engineer from Colombia</h3>
+
+## 💬 Ask me about
+- Backend web and mobile development (express.js)
+- Frontend web development (React.js)
+- Mobile development (Flutter)
+- Docker
+
+## 📅 Hobbies
+- Reading
+- Play videogames
+- Work out
+- Listening music
+- Tenis
+
+## 📖 Currenly learnig
+- 🌱 advance flutter
+- 🌱 Angular
+- 🌱 Machine learning basics
+- 🌱 Springboot
+
+## 💾 Programing lenguages
+- Python
+- Java
+- C#
+- Javascript
+- Ruby
+- Dart
+
 
 
 <!---
